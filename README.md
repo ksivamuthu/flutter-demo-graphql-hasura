@@ -1,6 +1,8 @@
 
 # 💙 Flutter Apps Powered by GraphQL with Hasura 😈
 
+[![Codemagic build status](https://api.codemagic.io/apps/5ef634427901d800106cc61e/5ef634427901d800106cc61d/status_badge.svg)](https://codemagic.io/apps/5ef634427901d800106cc61e/5ef634427901d800106cc61d/latest_build)
+
 Developer Emotion Tracker - Application built with Flutter powered by GraphQL with Hasura & Postgresql. This application helps to track the emotion in developer's activities. 
 
 ## Getting Started
@@ -10,6 +12,3 @@ To get started with Flutter, view Flutter's [online documentation](https://flutt
 ## Demo
 
 ![](./docs/demo.gif)
-
-
-
