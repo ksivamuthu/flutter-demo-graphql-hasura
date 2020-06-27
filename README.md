@@ -9,6 +9,10 @@ Slides are here: https://slides.com/sivamuthukumar/flutter-graphql-hasura/
 
 To get started with Flutter, view Flutter's [online documentation](https://flutter.io/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
+## Setup Hasura GraphQL Server
+
+Please visit the [Hasura documentation](https://hasura.io/docs/1.0/graphql/manual/index.html) to setup the Hasura GraphQL engine locally using docker or deploy in heroku with postgresql.
+
 ## Demo
 
 ![](./docs/demo.gif)
